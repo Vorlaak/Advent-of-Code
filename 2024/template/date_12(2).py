@@ -1,5 +1,5 @@
 def get_input() :
-    #return("example.txt")
+    return("example.txt")
     return("input.txt")
 
 def main() :
