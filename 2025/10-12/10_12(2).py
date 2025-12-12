@@ -1,4 +1,4 @@
-from z3 import *
+from z3 import IntVector, Optimize, Int
 
 
 def get_input():
